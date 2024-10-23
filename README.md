@@ -10,8 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/c00LpXer/leetcode_js/tree/master/0020-valid-parentheses) |
+| [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/c00LpXer/leetcode_js/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
