@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/c00LpXer/leetcode_js/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/c00LpXer/leetcode_js/tree/master/0058-length-of-last-word) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
+| [3636-check-balanced-string](https://github.com/c00LpXer/leetcode_js/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
