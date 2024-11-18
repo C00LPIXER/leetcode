@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/c00LpXer/leetcode_js/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/c00LpXer/leetcode_js/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/c00LpXer/leetcode_js/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
