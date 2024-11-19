@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/c00LpXer/leetcode_js/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/c00LpXer/leetcode_js/tree/master/0504-base-7) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/c00LpXer/leetcode_js/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/c00LpXer/leetcode_js/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3636-check-balanced-string](https://github.com/c00LpXer/leetcode_js/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
