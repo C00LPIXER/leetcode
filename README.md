@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/c00LpXer/leetcode_js/tree/master/0504-base-7) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/c00LpXer/leetcode_js/tree/master/2383-add-two-integers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/c00LpXer/leetcode_js/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/c00LpXer/leetcode_js/tree/master/3429-special-array-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/c00LpXer/leetcode_js/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
