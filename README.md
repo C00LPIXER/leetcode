@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [3636-check-balanced-string](https://github.com/c00LpXer/leetcode_js/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2181-smallest-index-with-equal-value](https://github.com/c00LpXer/leetcode_js/tree/master/2181-smallest-index-with-equal-value) |
+| [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/c00LpXer/leetcode_js/tree/master/3429-special-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/c00LpXer/leetcode_js/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/c00LpXer/leetcode_js/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 ## Monotonic Stack
 |  |
 | ------- |
