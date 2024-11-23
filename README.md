@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/c00LpXer/leetcode_js/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/c00LpXer/leetcode_js/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/c00LpXer/leetcode_js/tree/master/2383-add-two-integers) |
 | [3371-harshad-number](https://github.com/c00LpXer/leetcode_js/tree/master/3371-harshad-number) |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
