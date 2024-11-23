@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/c00LpXer/leetcode_js/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/c00LpXer/leetcode_js/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/c00LpXer/leetcode_js/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
