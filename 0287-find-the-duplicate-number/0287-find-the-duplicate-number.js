@@ -3,13 +3,12 @@
  * @return {number}
  */
 var findDuplicate = function (nums) {
-    let obj = {}
+    let seen = new Set();
     for (let i = 0; i < nums.length; i++) {
-        obj[nums[i]] = (obj[nums[i]] || 0) + 1;
-    }
-    for (key in obj) {
-        if (obj[key] > 1) {
-            return +key
+        if (seen.has(nums[i])) {
+            return nums[i];
         }
+        seen.add(nums[i]);
     }
+    return null;
 };
