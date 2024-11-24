@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 | [2181-smallest-index-with-equal-value](https://github.com/c00LpXer/leetcode_js/tree/master/2181-smallest-index-with-equal-value) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
+| [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
