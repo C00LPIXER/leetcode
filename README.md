@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/c00LpXer/leetcode_js/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/c00LpXer/leetcode_js/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/c00LpXer/leetcode_js/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
