@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/c00LpXer/leetcode_js/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/c00LpXer/leetcode_js/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/c00LpXer/leetcode_js/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/c00LpXer/leetcode_js/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
 ## Memoization
