@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/c00LpXer/leetcode_js/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
+| [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/c00LpXer/leetcode_js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/c00LpXer/leetcode_js/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/c00LpXer/leetcode_js/tree/master/0792-binary-search) |
+| [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/c00LpXer/leetcode_js/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -124,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/c00LpXer/leetcode_js/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
 | ------- |
+| [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
