@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/c00LpXer/leetcode_js/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/c00LpXer/leetcode_js/tree/master/1603-running-sum-of-1d-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/c00LpXer/leetcode_js/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/c00LpXer/leetcode_js/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/c00LpXer/leetcode_js/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
@@ -212,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
