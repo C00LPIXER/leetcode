@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/c00LpXer/leetcode_js/tree/master/2383-add-two-integers) |
 | [3371-harshad-number](https://github.com/c00LpXer/leetcode_js/tree/master/3371-harshad-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/c00LpXer/leetcode_js/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/c00LpXer/leetcode_js/tree/master/3429-special-array-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/c00LpXer/leetcode_js/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
