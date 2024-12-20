@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/c00LpXer/leetcode_js/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/c00LpXer/leetcode_js/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/c00LpXer/leetcode_js/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0101-symmetric-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/c00LpXer/leetcode_js/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,9 +277,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0101-symmetric-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/c00LpXer/leetcode_js/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/c00LpXer/leetcode_js/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/c00LpXer/leetcode_js/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
