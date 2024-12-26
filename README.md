@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/c00LpXer/leetcode_js/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/c00LpXer/leetcode_js/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/c00LpXer/leetcode_js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/c00LpXer/leetcode_js/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/c00LpXer/leetcode_js/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/c00LpXer/leetcode_js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/c00LpXer/leetcode_js/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/c00LpXer/leetcode_js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/c00LpXer/leetcode_js/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/c00LpXer/leetcode_js/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/c00LpXer/leetcode_js/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/c00LpXer/leetcode_js/tree/master/0230-kth-smallest-element-in-a-bst) |
