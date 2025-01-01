@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
 | [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/c00LpXer/leetcode_js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/c00LpXer/leetcode_js/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/c00LpXer/leetcode_js/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
 |  |
