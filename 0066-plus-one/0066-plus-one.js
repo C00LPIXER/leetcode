@@ -3,13 +3,16 @@
  * @return {number[]}
  */
 var plusOne = function (digits) {
-    let result = +digits.join("");
-    ++result;
-    let a = result.toString();
-    let array = []
-    for (let i = 0; i < a.length; i++) {
-        array.push(+a[i])
+    for (let i = digits.length - 1; i >= 0; i--) {
+        digits[i]++;
 
+        if (digits[i] < 10) {
+            return digits;
+        }
+
+        digits[i] = 0;
     }
-    return array
+
+    digits.unshift(1);
+    return digits;
 };
