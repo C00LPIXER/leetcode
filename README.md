@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 | [2181-smallest-index-with-equal-value](https://github.com/c00LpXer/leetcode_js/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/c00LpXer/leetcode_js/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/c00LpXer/leetcode_js/tree/master/2727-number-of-senior-citizens) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/c00LpXer/leetcode_js/tree/master/1603-running-sum-of-1d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/c00LpXer/leetcode_js/tree/master/2358-number-of-ways-to-split-array) |
 ## Linked List
 |  |
 | ------- |
