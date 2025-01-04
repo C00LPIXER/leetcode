@@ -19,6 +19,7 @@ var maxFrequencyElements = function (nums) {
             max = frequency[key]
         }
     }
+    delete frequency;
 
     return count * max;
 };
