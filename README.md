@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/c00LpXer/leetcode_js/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/c00LpXer/leetcode_js/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/c00LpXer/leetcode_js/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/c00LpXer/leetcode_js/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [2300-construct-string-with-repeat-limit](https://github.com/c00LpXer/leetcode_js/tree/master/2300-construct-string-with-repeat-limit) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
