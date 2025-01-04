@@ -12,7 +12,6 @@ var maxFrequencyElements = function (nums) {
     let max = 0;
 
     for (let key in frequency) {
-        console.log(key, frequency[key])
         if (max === frequency[key]) {
             count++
         } else if (max < frequency[key]) {
