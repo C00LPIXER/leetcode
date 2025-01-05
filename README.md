@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/c00LpXer/leetcode_js/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/c00LpXer/leetcode_js/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/c00LpXer/leetcode_js/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/c00LpXer/leetcode_js/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
