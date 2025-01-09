@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/c00LpXer/leetcode_js/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/c00LpXer/leetcode_js/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/c00LpXer/leetcode_js/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/c00LpXer/leetcode_js/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/c00LpXer/leetcode_js/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/c00LpXer/leetcode_js/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [2300-construct-string-with-repeat-limit](https://github.com/c00LpXer/leetcode_js/tree/master/2300-construct-string-with-repeat-limit) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/c00LpXer/leetcode_js/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/c00LpXer/leetcode_js/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
