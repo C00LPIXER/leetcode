@@ -4,13 +4,12 @@
  */
 var countTestedDevices = function (batteryPercentages) {
     let count = 0
-    for (let i = 0; i < batteryPercentages.length; i++) {
-        if (batteryPercentages[i] > 0) {
+    let n = batteryPercentages.length;
+    for (let i=0;i<n;i++){
+        if(batteryPercentages[i] > 0 && batteryPercentages[i] > count) {
             count++
-            for (let j = 0; j < batteryPercentages.length; j++) {
-                batteryPercentages[j] = Math.max(0, batteryPercentages[j] - 1)
-            }
         }
     }
-    return count
-};
+
+    return count;
+}
