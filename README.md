@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/c00LpXer/leetcode_js/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/c00LpXer/leetcode_js/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/c00LpXer/leetcode_js/tree/master/2836-neither-minimum-nor-maximum) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/c00LpXer/leetcode_js/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/c00LpXer/leetcode_js/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/c00LpXer/leetcode_js/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
+| [2836-neither-minimum-nor-maximum](https://github.com/c00LpXer/leetcode_js/tree/master/2836-neither-minimum-nor-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
