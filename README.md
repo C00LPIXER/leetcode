@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 | [2181-smallest-index-with-equal-value](https://github.com/c00LpXer/leetcode_js/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/2232-adding-spaces-to-a-string) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/c00LpXer/leetcode_js/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
