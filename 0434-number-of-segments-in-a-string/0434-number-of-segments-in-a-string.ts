@@ -1,10 +1,10 @@
 function countSegments(s: string): number {
-    let str = s.trim()
+    let str: string = s.trim()
     if (str === "") return 0
-    let array = str.split(" ")
-    let count = 0
-    for(let i = 0; i < array.length; i++){
-        if(array[i] !== ""){
+    let array: string[] = str.split(" ")
+    let count: number = 0
+    for (let i: number = 0; i < array.length; i++) {
+        if (array[i] !== "") {
             count++
         }
     }
