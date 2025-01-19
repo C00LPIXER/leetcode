@@ -7,7 +7,7 @@ function sortArrayByParityII(nums: number[]): number[] {
         if (nums[evenIndex] % 2 === 0) {
             evenIndex += 2;
         }
-        else if (nums[oddIndex] % 2 === 1) {
+        else if (nums[oddIndex] % 2 !== 0) {
             oddIndex += 2;
         }
         else {
