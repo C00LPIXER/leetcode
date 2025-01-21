@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/c00LpXer/leetcode_js/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/c00LpXer/leetcode_js/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/c00LpXer/leetcode_js/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/c00LpXer/leetcode_js/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/c00LpXer/leetcode_js/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/c00LpXer/leetcode_js/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/c00LpXer/leetcode_js/tree/master/0183-customers-who-never-order) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/c00LpXer/leetcode_js/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
