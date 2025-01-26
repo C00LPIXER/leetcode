@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/c00LpXer/leetcode_js/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/c00LpXer/leetcode_js/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/c00LpXer/leetcode_js/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/c00LpXer/leetcode_js/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/c00LpXer/leetcode_js/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/c00LpXer/leetcode_js/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/c00LpXer/leetcode_js/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/c00LpXer/leetcode_js/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/c00LpXer/leetcode_js/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
