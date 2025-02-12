@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/c00LpXer/leetcode_js/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/c00LpXer/leetcode_js/tree/master/0860-design-circular-queue) |
+| [0861-flipping-an-image](https://github.com/c00LpXer/leetcode_js/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/c00LpXer/leetcode_js/tree/master/0958-sort-array-by-parity-ii) |
 | [1127-last-stone-weight](https://github.com/c00LpXer/leetcode_js/tree/master/1127-last-stone-weight) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/c00LpXer/leetcode_js/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/c00LpXer/leetcode_js/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/c00LpXer/leetcode_js/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/c00LpXer/leetcode_js/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/c00LpXer/leetcode_js/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/c00LpXer/leetcode_js/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/c00LpXer/leetcode_js/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/c00LpXer/leetcode_js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/c00LpXer/leetcode_js/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/c00LpXer/leetcode_js/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/c00LpXer/leetcode_js/tree/master/0861-flipping-an-image) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/c00LpXer/leetcode_js/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Dynamic Programming
 |  |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/c00LpXer/leetcode_js/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/c00LpXer/leetcode_js/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
