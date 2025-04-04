@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/c00LpXer/leetcode_js/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/c00LpXer/leetcode_js/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/c00LpXer/leetcode_js/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/C00LPIXER/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/c00LpXer/leetcode_js/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/c00LpXer/leetcode_js/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/C00LPIXER/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/c00LpXer/leetcode_js/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/C00LPIXER/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/c00LpXer/leetcode_js/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/c00LpXer/leetcode_js/tree/master/0628-maximum-product-of-three-numbers) |
