@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/c00LpXer/leetcode_js/tree/master/0958-sort-array-by-parity-ii) |
 | [1127-last-stone-weight](https://github.com/c00LpXer/leetcode_js/tree/master/1127-last-stone-weight) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/C00LPIXER/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/c00LpXer/leetcode_js/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/c00LpXer/leetcode_js/tree/master/1603-running-sum-of-1d-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/c00LpXer/leetcode_js/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/c00LpXer/leetcode_js/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/c00LpXer/leetcode_js/tree/master/0958-sort-array-by-parity-ii) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/C00LPIXER/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
