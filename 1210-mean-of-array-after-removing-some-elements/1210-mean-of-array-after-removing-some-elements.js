@@ -7,15 +7,13 @@ var trimMean = function (arr) {
     let l = array.length
 
     let p = Math.floor(l * 0.05)
-
-    console.log(p)
-
+    let count = 0
     let total = 0
-    let after = array.slice(p, (l - p));
 
-    for (let i = 0; i < after.length; i++) {
-        total += after[i]
+    for (let i = p; i < (l - p); i++) {
+        count++;
+        total += array[i]
     }
 
-    return (total / after.length)
+    return (total / count)
 };
