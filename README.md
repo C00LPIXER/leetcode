@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/c00LpXer/leetcode_js/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/c00LpXer/leetcode_js/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/0434-number-of-segments-in-a-string) |
+| [0796-rotate-string](https://github.com/C00LPIXER/leetcode/tree/master/0796-rotate-string) |
 | [0837-most-common-word](https://github.com/c00LpXer/leetcode_js/tree/master/0837-most-common-word) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/c00LpXer/leetcode_js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/C00LPIXER/leetcode/tree/master/0796-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/c00LpXer/leetcode_js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Bit Manipulation
 |  |
