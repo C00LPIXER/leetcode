@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/c00LpXer/leetcode_js/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/c00LpXer/leetcode_js/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/c00LpXer/leetcode_js/tree/master/1720-crawler-log-folder) |
+| [1859-sorting-the-sentence](https://github.com/C00LPIXER/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1894-merge-strings-alternately](https://github.com/c00LpXer/leetcode_js/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/c00LpXer/leetcode_js/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/c00LpXer/leetcode_js/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/c00LpXer/leetcode_js/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/C00LPIXER/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/c00LpXer/leetcode_js/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/C00LPIXER/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/c00LpXer/leetcode_js/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/c00LpXer/leetcode_js/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/c00LpXer/leetcode_js/tree/master/2836-neither-minimum-nor-maximum) |
