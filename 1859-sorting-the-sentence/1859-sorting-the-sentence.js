@@ -7,7 +7,7 @@ var sortSentence = function (s) {
     let temp = ""
 
     for (let i = 0; i < s.length; i++) {
-        if (s[i + 1] === " " || s[i + 1] === undefined) {
+        if (s[i + 1] == " " || s[i + 1] == undefined) {
             result[s[i] - 1] = temp;
             temp = ""
             i++
